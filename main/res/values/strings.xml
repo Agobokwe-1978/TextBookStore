@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">TextBook Store</string>
+
+    <!-- Screen Titles -->
+    <string name="title_home">TextBook Store</string>
+    <string name="title_detail">Book Details</string>
+    <string name="title_listings">My Listings</string>
+    <string name="title_inbox">Messages</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Bottom Navigation Labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_listings">Listings</string>
+    <string name="nav_inbox">Inbox</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Action Buttons -->
+    <string name="action_inquire">Chat with Seller</string>
+    <string name="action_search">Search</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_send">Send Email</string>
+
+    <!-- Labels -->
+    <string name="label_price">Price:</string>
+    <string name="label_edition">Edition:</string>
+    <string name="label_condition">Condition:</string>
+    <string name="label_course_code">Course Code:</string>
+    <string name="label_seller">Seller:</string>
+    <string name="label_description">Description:</string>
+
+    <!-- Hints -->
+    <string name="hint_search">Search by title, author, or course code...</string>
+
+    <!-- Placeholders -->
+    <string name="book_cover_description">Book cover image</string>
+    <string name="empty_listings">You haven\'t listed any books yet.\nTap + to sell a book</string>
+    <string name="empty_inbox">No messages yet.\nInquire about a book to start a conversation</string>
+    <string name="empty_search">No books found</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_name">Agobokwe Rathotse</string>
+    <string name="profile_student_id">24301464</string>
+    <string name="profile_module">MADA372</string>
+    <string name="profile_email">agobokwe@student.ac.za</string>
+
+    <!-- Dialog Messages -->
+    <string name="dialog_inquiry_title">Contact Seller</string>
+    <string name="dialog_inquiry_message">Send inquiry about %s?</string>
+    <string name="toast_email_sent">Opening email app...</string>
+
+    <!-- Errors -->
+    <string name="error_search_too_short">Enter at least 2 characters</string>
+    <string name="error_no_books">No books available</string>
+    <string name="error_load_failed">Failed to load books</string>
+</resources>

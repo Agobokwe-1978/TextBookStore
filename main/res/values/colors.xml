@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SS2 Brand Colours - African Savanna Inspired -->
+    <color name="terracotta">#C06C4A</color>
+    <color name="terracotta_dark">#A8553A</color>
+    <color name="acacia_green">#8A9B68</color>
+    <color name="cream">#F9F6EE</color>
+    <color name="dark_charcoal">#2C2C2C</color>
+
+    <!-- Additional UI Colours -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="divider_grey">#DDDDDD</color>
+    <color name="text_secondary">#666666</color>
+</resources>

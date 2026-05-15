@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Trunk -->
+    <path
+        android:fillColor="#8B6914"
+        android:pathData="M55,90 L58,50 L62,50 L65,90 Z" />
+
+    <!-- Canopy (umbrella shape - characteristic of Acacia trees) -->
+    <path
+        android:fillColor="@color/acacia_green"
+        android:alpha="0.8"
+        android:pathData="M30,50 Q60,20 90,50 Q60,55 30,50 Z" />
+
+    <path
+        android:fillColor="@color/acacia_green"
+        android:alpha="0.6"
+        android:pathData="M35,45 Q60,15 85,45 Q60,50 35,45 Z" />
+
+</vector>

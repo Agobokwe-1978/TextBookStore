@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="100dp"
+    android:viewportWidth="80"
+    android:viewportHeight="100">
+
+    <!-- Book cover background -->
+    <path
+        android:fillColor="#E8E0D5"
+        android:pathData="M10,5 L70,5 L70,90 L10,95 Z" />
+
+    <!-- Book spine shadow -->
+    <path
+        android:fillColor="#D4CABB"
+        android:pathData="M10,5 L15,7 L15,97 L10,95 Z" />
+
+    <!-- Decorative lines -->
+    <path
+        android:fillColor="@color/terracotta"
+        android:alpha="0.3"
+        android:pathData="M20,20 L60,20 L60,25 L20,25 Z" />
+
+    <path
+        android:fillColor="@color/terracotta"
+        android:alpha="0.2"
+        android:pathData="M20,30 L60,30 L60,35 L20,35 Z" />
+
+    <path
+        android:fillColor="@color/terracotta"
+        android:alpha="0.15"
+        android:pathData="M20,40 L50,40 L50,45 L20,45 Z" />
+
+    <path
+        android:fillColor="@color/acacia_green"
+        android:alpha="0.4"
+        android:pathData="M20,60 L30,60 L30,70 L20,70 Z" />
+
+</vector>
